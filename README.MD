@@ -2,8 +2,12 @@
 
 You should be able to import the unity package, and then change the movies in the StreamingAssets folder to customize.
 
-![Screenshot](https://raw.githubusercontent.com/shalperin/UnityMetaQuestAlphaBlendVideo/refs/heads/main/screenshot.png)
-[Part I Video](https://www.youtube.com/watch?v=2NlmsGS60DU)
+![Screenshot](https://raw.githubusercontent.com/shalperin/UnityMetaQuestAlphaBlendVideo/refs/heads/main/screenshot2.png)
 
-[Part II Video](https://www.youtube.com/watch?v=cLOogOOgm7g)
+[Demo Video](https://www.youtube.com/watch?v=GoHphe3Pa-A&list=PLj9woYh_-gzcqCbh_lKRwB1bItGydyjKH&index=1)
+
+
+[Part I "Recall Note"](https://www.youtube.com/watch?v=2NlmsGS60DU)
+
+[Part II "Recall Note"](https://www.youtube.com/watch?v=cLOogOOgm7g)
 
