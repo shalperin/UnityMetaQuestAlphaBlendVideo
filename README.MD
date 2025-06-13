@@ -7,6 +7,6 @@ You should be able to import the unity package, and then change the movies in th
 [Demo Video](https://www.youtube.com/shorts/ZHolOsReCb0)
 
 
-[Part II "Recall Note"](https://www.youtube.com/watch?v=cLOogOOgm7g)
+[Part I "Recall Note"](https://www.youtube.com/watch?v=cLOogOOgm7g)
 
 [Part II "Recall Note"](https://www.youtube.com/watch?v=2NlmsGS60DU)
